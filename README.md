@@ -1,0 +1,2 @@
+# portfoliobasic
+Portfolio pertama ku
